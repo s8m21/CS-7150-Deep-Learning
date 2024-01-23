@@ -18,4 +18,4 @@ Current Debates and Questions: Engaged with the main questions and debates that 
 
 Current Research Topics: Explored some of the cutting-edge research topics in deep learning, staying abreast with the latest developments.
 
-
+This repository stores and highlights deep learning assignments as a reference for learners pursuing the course to provide guidance and support.
